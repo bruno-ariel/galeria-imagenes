@@ -1,0 +1,50 @@
+[
+    {
+        "src": "assets/naturaleza1.jpg",
+        "title": "Montañas al atardecer",
+        "tags": [
+            "naturaleza",
+            "montañas"
+        ]
+    },
+    {
+        "src": "assets/ciudad1.jpg",
+        "title": "Ciudad moderna de noche",
+        "tags": [
+            "ciudad",
+            "nocturno"
+        ]
+    },
+    {
+        "src": "assets/animales1.jpg",
+        "title": "Gato descansando",
+        "tags": [
+            "animales",
+            "gato"
+        ]
+    },
+    {
+        "src": "assets/naturaleza2.jpg",
+        "title": "Bosque en otoño",
+        "tags": [
+            "naturaleza",
+            "bosque"
+        ]
+    },
+    {
+        "src": "assets/ciudad2.jpg",
+        "title": "Arquitectura clásica",
+        "tags": [
+            "ciudad",
+            "historia"
+        ]
+    },
+    {
+        "src": "assets/animales2.jpg",
+        "title": "Pájaro en vuelo",
+        "tags": [
+            "animales",
+            "aves"
+        ]
+    }
+]
